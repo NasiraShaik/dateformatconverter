@@ -1,6 +1,6 @@
 # dateformatconverter
 
-##**Overview**
+## **Overview**
 
 The **Date Format Converter** is a simple web application that allows users to convert dates from one format to another. It provides a user-friendly interface for entering a date, input format, and the expected output format. Upon clicking the "Convert" button, the application uses the Moment.js library to parse and format the date, displaying the result in a separate output box.
 
